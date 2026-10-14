@@ -1,0 +1,6 @@
+{
+  "name": "Tournament Admin",
+  "description": "Gaming Tournament Admin Panel with real-time operations, player management, prize distribution, and full management controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

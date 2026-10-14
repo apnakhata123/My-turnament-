@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.55"
+        android:scaleY="0.55"
+        android:translateX="24.3"
+        android:translateY="24.3">
+        <!-- Shield backdrop -->
+        <path
+            android:fillColor="#1E293B"
+            android:strokeColor="#FACC15"
+            android:strokeWidth="3"
+            android:pathData="M54,12 L86,24 C86,60 54,92 54,92 C54,92 22,60 22,24 Z" />
+
+        <!-- Golden Trophy Cup -->
+        <path
+            android:fillColor="#FACC15"
+            android:pathData="M38,32 L70,32 C70,48 62,56 54,58 C46,56 38,48 38,32 Z" />
+
+        <!-- Trophy Handles -->
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#FBBF24"
+            android:strokeWidth="3.5"
+            android:pathData="M38,36 C30,36 30,48 39,50 M70,36 C78,36 78,48 69,50" />
+
+        <!-- Trophy Stem & Base -->
+        <path
+            android:fillColor="#FBBF24"
+            android:pathData="M51,58 L57,58 L57,68 L68,72 L68,76 L40,76 L40,72 L51,68 Z" />
+
+        <!-- Center Star -->
+        <path
+            android:fillColor="#1E293B"
+            android:pathData="M54,37 L56,42 L61,42 L57,45 L59,50 L54,47 L49,50 L51,45 L47,42 L52,42 Z" />
+
+        <!-- Crown Accents -->
+        <path
+            android:fillColor="#FACC15"
+            android:pathData="M44,24 L48,28 L54,22 L60,28 L64,24 L62,30 L46,30 Z" />
+    </group>
+</vector>
